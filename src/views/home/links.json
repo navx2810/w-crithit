@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Encounter Pit",
+        "desc": "Manage combatants and display battle-critical information.",
+        "route": "encounter",
+        "icon": "http://placehold.it/128x128"
+    },
+    {
+        "name": "Dice Rolls",
+        "desc": "Roll some dice.",
+        "route": "rolls",
+        "icon": "http://placehold.it/128x128"
+    },
+    {
+        "name": "Options",
+        "desc": "Alter the way this application functions.",
+        "route": "options",
+        "icon": "http://placehold.it/128x128"
+    },
+    {
+        "name": "Vault",
+        "desc": "Store information about your campaigns entities.",
+        "route": "vault",
+        "icon": "http://placehold.it/128x128"
+    },
+    {
+        "name": "Archive",
+        "desc": "Retrieve campaign-related information, media and materials.",
+        "route": "archive",
+        "icon": "http://placehold.it/128x128"
+    }
+]

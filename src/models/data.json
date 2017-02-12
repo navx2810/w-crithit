@@ -1,0 +1,15 @@
+{
+  "view": {
+    "path": "home"
+  },
+  "rolls": {
+    "stacks": [
+        { "rolls": [] }
+    ]
+  },
+  "encounters": {
+    "entities": [
+
+    ]
+  }
+}
